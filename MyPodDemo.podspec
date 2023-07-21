@@ -19,10 +19,10 @@ Pod::Spec.new do |s|
 
   s.description      = 'This is summary of the my first pod version release.This is summary of the my first pod version release.This is summary of the my first pod version release'
 
-  s.homepage         = 'https://github.com/Marimuthu/MyPodDemo'
+  s.homepage         = 'https://github.com/Satz/MyPodDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Marimuthu' => 'satz4ios@gmail.com' }
+  s.author           = { 'Satz' => 'satz4ios@gmail.com' }
   s.source           = { :git => 'https://github.com/satz4ios/MyPodDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

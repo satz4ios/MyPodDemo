@@ -22,7 +22,7 @@ pod 'MyPodDemo'
 
 ## Author
 
-Marimuthu, margovin@in.ibm.com
+Satz, satz4ios@gmail.com
 
 ## License
 
