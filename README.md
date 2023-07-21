@@ -1,6 +1,6 @@
 # MyPodDemo
 
-[![CI Status](https://img.shields.io/travis/Marimuthu/MyPodDemo.svg?style=flat)](https://travis-ci.org/Marimuthu/MyPodDemo)
+[![CI Status](https://img.shields.io/travis/satz4ios/MyPodDemo.svg?style=flat)](https://travis-ci.org/satz4ios/MyPodDemo)
 [![Version](https://img.shields.io/cocoapods/v/MyPodDemo.svg?style=flat)](https://cocoapods.org/pods/MyPodDemo)
 [![License](https://img.shields.io/cocoapods/l/MyPodDemo.svg?style=flat)](https://cocoapods.org/pods/MyPodDemo)
 [![Platform](https://img.shields.io/cocoapods/p/MyPodDemo.svg?style=flat)](https://cocoapods.org/pods/MyPodDemo)
